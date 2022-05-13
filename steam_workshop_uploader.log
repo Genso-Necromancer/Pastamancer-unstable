@@ -1,7 +1,7 @@
 
 -------------------------------------------------------------------------------
-Parsing project file - C:\Users\danaw167\Desktop\Sanae mod\project.xml
-Mod Data Directory = c:/Users/danaw167/Desktop/Sanae mod/
+Parsing project file - C:\Program Files (x86)\Steam\steamapps\common\DarkestDungeon\mods\Sanae mod\project.xml
+Mod Data Directory = C:/Program Files (x86)/Steam/steamapps/common/DarkestDungeon/mods/Sanae mod/
 
 -------------------------------------------------------------------------------
 Processing Map Files files...
@@ -14,15 +14,15 @@ Building Languages
 Exporting .loc2 files
 
 -------------------------------------------------------------------------------
-Searching for preview icon file c:/Users/danaw167/Desktop/Sanae mod/preview_icon.png...FOUND!
+Searching for preview icon file C:/Program Files (x86)/Steam/steamapps/common/DarkestDungeon/mods/Sanae mod/preview_icon.png...FOUND!
 <UploadMode> - Set to dont_submit
 
 
 -------------------------------------------------------------------------------
 Detected 2 unchanged files
 The following files are unchanged...
-c:/Users/danaw167/Desktop/Sanae mod/overlays/poptext_hp_heal_dot.png
-c:/Users/danaw167/Desktop/Sanae mod/overlays/tray_dot_hp_heal.png
+C:/Program Files (x86)/Steam/steamapps/common/DarkestDungeon/mods/Sanae mod/overlays/poptext_hp_heal_dot.png
+C:/Program Files (x86)/Steam/steamapps/common/DarkestDungeon/mods/Sanae mod/overlays/tray_dot_hp_heal.png
 
 -------------------------------------------------------------------------------
 Modded files...
@@ -178,7 +178,6 @@ trinkets/east_town.rarities.trinkets.json
 trinkets/sanae.entries.trinkets.json
 726675-sanae.jpg
 README.md
-modfiles.txt
 preview_icon.png
 project.xml
 
@@ -186,5 +185,5 @@ project.xml
 *******************************************************************************
 WARNING MOD WILL NOT BE UPLOADED
 *******************************************************************************
-Saving project file C:\Users\danaw167\Desktop\Sanae mod\project.xml
+Saving project file C:\Program Files (x86)\Steam\steamapps\common\DarkestDungeon\mods\Sanae mod\project.xml
 

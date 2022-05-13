@@ -2,6 +2,47 @@
    "buffs":
    [
 	  {
+         "id" : "sanae_plus1faith_Desk_TRUE",
+         "stat_type" : "upgrade_discount",
+         "stat_sub_type" : "sanae_plus1faith_desk_TRUE",
+         "amount" : 0.01,
+         "remove_if_not_active" : false,
+         "rule_type" : "always",
+         "is_false_rule" : false,
+         "rule_data" : {
+            "float" : 0,
+            "string" : ""
+         }
+      },
+	  {
+         "id" : "SA_SpaceDeleter_TT",
+         "stat_type" : "upgrade_discount",
+         "stat_sub_type" : "SA_SpaceDeleter_TT",
+         "amount" : 0.01,
+         "remove_if_not_active" : false,
+         "rule_type" : "always",
+         "is_false_rule" : false,
+         "rule_data" : {
+            "float" : 0,
+            "string" : ""
+         },
+		 "has_description": true
+      },
+	  {
+         "id" : "MG_INV_SpaceDeleter_TT",
+         "stat_type" : "upgrade_discount",
+         "stat_sub_type" : "SA_INV_SpaceDeleter_TT",
+         "amount" : 0.01,
+         "remove_if_not_active" : false,
+         "rule_type" : "always",
+         "is_false_rule" : false,
+         "rule_data" : {
+            "float" : 0,
+            "string" : ""
+         },
+		 "has_description": true
+      },
+	  {
          "id" : "sanae_setfaith0_Desk",
          "stat_type" : "upgrade_discount",
          "stat_sub_type" : "sanae_setfaith0_desk",
@@ -28,23 +69,10 @@
          }
       },
 	  {
-         "id" : "sanae_cleanup_Desk",
+         "id" : "sanae_setfaithnull_Desk",
          "stat_type" : "upgrade_discount",
-         "stat_sub_type" : "sanae_cleanup_desk",
-         "amount" : 0.01,
-         "remove_if_not_active" : false,
-         "rule_type" : "always",
-         "is_false_rule" : false,
-         "rule_data" : {
-            "float" : 0,
-            "string" : ""
-         }
-      },
-	  {
-         "id" : "sanae_inv_cleanup_Desk",
-         "stat_type" : "upgrade_discount",
-         "stat_sub_type" : "sanae_inv_cleanup_desk",
-         "amount" : 0.01,
+         "stat_sub_type" : "sanae_setfaithnull_desk",
+         "amount" : -0.01,
          "remove_if_not_active" : false,
          "rule_type" : "always",
          "is_false_rule" : false,

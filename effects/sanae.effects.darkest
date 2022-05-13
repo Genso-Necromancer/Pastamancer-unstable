@@ -1,3 +1,31 @@
+//TT TESTS
+effect: .name "SA TT DELETE TEST" .target "performer" .skill_instant true .buff_ids "SA_SpaceDeleter_TT" .on_hit true .on_miss true
+
+effect: .name "SA TT FAITH TEST" .target "performer" .skill_instant true .buff_ids "sanae_plus1faith_Desk_TRUE" .on_hit true .on_miss true
+
+
+
+effect: .name "SA TT INV DELETE TEST" .target "performer" .skill_instant true .buff_ids "SA_INV_SpaceDeleter_TT" .on_hit true .on_miss true
+
+
+effect: .name "SA SKILL RULE TEST 1" .target "performer" .skill_instant true .buff_ids "sanae_SKILL_TEST1" .on_hit true .on_miss false
+
+effect: .name "SA SKILL RULE TEST 2" .target "performer" .skill_instant true .buff_ids "sanae_SKILL_TEST2" .on_hit true .on_miss false
+
+effect: .name "SA SKILL RULE TEST 3" .target "performer" .skill_instant true .buff_ids "sanae_SKILL_TEST3" .on_hit true .on_miss false
+
+effect: .name "SA SKILL RULE TEST 4" .target "performer" .skill_instant true .buff_ids "sanae_SKILL_TEST4" .on_hit true .on_miss false
+
+
+
+
+
+
+
+
+
+
+
 //// Faith Changes
 //effects
 effect: .name "Sanae SetFaith 0" .target "performer" .set_mode sanaefaith0 .chance 100% 																									.on_hit true .on_miss true .queue true .has_description false	.apply_once true
@@ -7,9 +35,7 @@ effect: .name "Sanae SetFaith 2" .target "performer" .set_mode sanaefaith2 .chan
 
 // Custom Tooltips
 effect: .name "Sanae SetFaith 0 Desk" 		.target "performer" .skill_instant true .buff_ids "sanae_setfaith0_Desk" .apply_once true .on_hit true .on_miss true
-effect: .name "Sanae Cleanup Desk" 	.target "performer" .skill_instant true .buff_ids "sanae_cleanup_Desk" .apply_once true .on_hit true .on_miss true
-effect: .name "Sanae INV Cleanup Desk" 	.target "performer" .skill_instant true .buff_ids "sanae_inv_cleanup_Desk" .apply_once true .on_hit true .on_miss true
-
+effect: .name "Sanae SetFaith Null Desk" 	.target "performer" .skill_instant true .buff_ids "sanae_setfaithnull_Desk" .apply_once true .on_hit true .on_miss true
 
 
 ////// Skills
